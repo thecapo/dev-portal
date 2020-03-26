@@ -1,5 +1,0 @@
-{
-  "mongoURI": "mongodb+srv://cawo:choloks@cluster0-tyhud.mongodb.net/test?retryWrites=true&w=majority",
-  "jwtSecret": "secret",
-  "githubToken": ""
-}
